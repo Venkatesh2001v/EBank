@@ -2,6 +2,10 @@ The goal of this coding exam is to quickly get you off the ground with **Authent
 
 ### Refer to the image below:
 
+ User ID: 142420
+ Password: 231225
+
+
 <div style="text-align: center;">
     <img src="https://assets.ccbp.in/frontend/content/react-js/ebank-output-v2.gif" alt="ebank-output" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
 </div>
